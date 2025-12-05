@@ -49,11 +49,6 @@ Ce portfolio présente mes projets, dashboards, notebooks et travaux en **R / Py
 
 📌 **Technos utilisées : R, RStudio, tidyverse, ggplot2, dplyr, tidyr**
 
-📁 **Dossier complet :**  
-[Excel_Bellabeat](BELLABEAT/Bellabeat_dailyActivity_merged.xlsx)
-
-[word Bellabeat](BELLABEAT/Word_6_Etapes_Bellabear_V5.docx)
-
 🔍 **Contenu :**
 - Nettoyage data   
 - Fusion datasets
